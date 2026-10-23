@@ -162,6 +162,6 @@ This project is for **educational purposes**. The author is not responsible for 
 
 ## Author
 
-**Aaliya Rehmaan**
+**Aaliya Rehman**
 
 Developed as a Python / cybersecurity learning project.
